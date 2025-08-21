@@ -1,0 +1,6 @@
+{
+  "protocol": "https",
+  "domain": "store.steampowered.com",
+  "wait": 10,
+  "host": "https://store.steampowered.com/"
+}
